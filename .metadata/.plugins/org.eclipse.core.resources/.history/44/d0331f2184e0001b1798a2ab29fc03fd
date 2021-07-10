@@ -1,0 +1,5 @@
+package com.security.spring.controller;
+
+public class StudentController {
+
+}
